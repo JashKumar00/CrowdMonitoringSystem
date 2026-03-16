@@ -1,0 +1,20 @@
+# Environment & Config
+includes/config.php
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Uploaded files (may contain sensitive data)
+uploads/
+
+# Large binary assets (add manually or use Git LFS)
+# assets/videos/
